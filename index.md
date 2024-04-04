@@ -27,3 +27,11 @@ b <- [5,6,7,7,9]
 c <- a + b
 ```
 
+
+next step is to add a task list. Am I supposed to add it here only?  
+I'll try and give it a go
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
