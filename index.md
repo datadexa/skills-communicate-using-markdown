@@ -7,3 +7,9 @@ okay. hope that worked.
 
 Now I am adding an image. 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+Step 3 - adding some code with formatting
+
+(my tilde/backtick key does not work :( ) - I used sharpkeys to map my right control key to this 
+
