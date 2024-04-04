@@ -13,3 +13,17 @@ Step 3 - adding some code with formatting
 
 (my tilde/backtick key does not work :( ) - I used sharpkeys to map my right control key to this 
 
+``` R
+a <- [1:3]
+b <- [5,6,7,7,9]
+c <- a + b
+```
+###### Yeehaaaw mapping worked
+
+Here is code without R syntaz highlighting
+``` 
+a <- [1:3]
+b <- [5,6,7,7,9]
+c <- a + b
+```
+
